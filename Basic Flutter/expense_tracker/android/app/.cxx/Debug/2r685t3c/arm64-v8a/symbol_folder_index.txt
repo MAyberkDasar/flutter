@@ -1,0 +1,1 @@
+D:\Programlama Dilleri\Mobil\Flutter\Kurslar\Maximilian Schwarzmuller\expense_tracker\build\app\intermediates\cxx\Debug\2r685t3c\obj\arm64-v8a
